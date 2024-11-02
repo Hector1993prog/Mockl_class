@@ -1,1 +1,5 @@
-This template is only for educational porpouses.
+# {{ cookiecutter.project_name }}
+
+{{ cookiecutter.project_description }}
+
+Created by {{ cookiecutter.author_name }}.
